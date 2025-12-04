@@ -1,0 +1,7 @@
+arraylist
+linklist
+get
+add
+remove(i) xoa phan tu tai vi tri thu i
+remove(doituong) xoa phan tu co gia tri hoac ten tuong tu
+clear xoa toan bo phan tu trong list

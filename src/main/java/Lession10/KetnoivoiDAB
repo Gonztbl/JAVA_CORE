@@ -1,0 +1,14 @@
+CRUD
+creat
+read: get list& get byID
+update
+delete
+B1: Thiết lập thư viện
+B2: lấy một connection kết nối
+B3: tạo một câu lệnh SQL
+B4: thực thi câu lệnh SQL
+B5: trả về kết quả SQL-> Java
+B6: đóng connection
+
+searching algorithms
+sử dụng tìm kiếm binarysearch (mảng đã được sắp xếp) chia đôi mảng và lấy phần tử ở giữa-> so sánh -> bỏ 1 bên phải hoặc trái-> tiếp tục chia phần bên trái hoặc phải và lấy phần tử ở giữa-> cho đến khi tìm thấy
